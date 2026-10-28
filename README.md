@@ -49,16 +49,6 @@
   <img src="https://skillicons.dev/icons?i=git,github,gitlab,docker,nginx,vercel,postman,vscode&perline=8" alt="Tools" />
 </p>
 
-## 📌 Featured Projects
-
-| Project | Description | Stack |
-| --- | --- | --- |
-| [**portfolio-v2**](https://github.com/kimhenggg/portfolio-v2) | My personal portfolio site — [salkimheng.dev](https://www.salkimheng.dev) | Next.js · TypeScript · Tailwind |
-| [**portfolio-backend**](https://github.com/kimhenggg/portfolio-backend) | REST API powering the portfolio content | Express · MongoDB · Docker |
-| [**portfolio-dashboard**](https://github.com/kimhenggg/portfolio-dashboard) | Admin dashboard to manage portfolio content | React · Vite · TypeScript |
-| [**portfolio-mail**](https://github.com/kimhenggg/portfolio-mail) | Mail service for the portfolio contact form | NestJS · Docker |
-| [**backend-boilerplate-django-v1**](https://github.com/kimhenggg/backend-boilerplate-django-v1) | Layered Django backend starter template | Django · Python |
-
 ## 📊 GitHub Stats
 
 <p align="center">
