@@ -21,13 +21,4 @@
 
 ---
 
-## 🧑‍💻 About Me
-
-- 🚀 Full stack developer crafting modern, accessible web experiences
-- 🎓 Software engineering student at the **Royal University of Phnom Penh**
-- ⚡ Focused on clean architecture, web performance and responsive design
-- 📫 Reach me at **sal.kimheng1212@gmail.com**
-
----
-
 <p align="center"><i>Thanks for stopping by! ⭐ Feel free to explore my repositories.</i></p>
