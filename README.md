@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Sal Kimheng 👋</h1>
-<h3 align="center">Full Stack Developer from Phnom Penh, Cambodia 🇰🇭</h3>
+<h3 align="center">Full Stack Developer</h3>
 
 <p align="center">
   <a href="https://readme-typing-svg.demolab.com">
@@ -26,7 +26,6 @@
 - 🚀 Full stack developer crafting modern, accessible web experiences
 - 🎓 Software engineering student at the **Royal University of Phnom Penh**
 - ⚡ Focused on clean architecture, web performance and responsive design
-- 🌱 Always learning — currently exploring Django and cloud deployment
 - 📫 Reach me at **sal.kimheng1212@gmail.com**
 
 ---
