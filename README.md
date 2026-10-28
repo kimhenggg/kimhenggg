@@ -29,26 +29,6 @@
 - 🌱 Always learning — currently exploring Django and cloud deployment
 - 📫 Reach me at **sal.kimheng1212@gmail.com**
 
-## 🛠️ Tech Stack
-
-**Frontend**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,redux,html,css&perline=8" alt="Frontend skills" />
-</p>
-
-**Backend & Database**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,django,python,mongodb,postgres,prisma&perline=8" alt="Backend skills" />
-</p>
-
-**Tools & DevOps**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,gitlab,docker,nginx,vercel,postman,vscode&perline=8" alt="Tools" />
-</p>
-
 ---
 
 <p align="center"><i>Thanks for stopping by! ⭐ Feel free to explore my repositories.</i></p>
